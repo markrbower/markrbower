@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @markrbower.
-- 👀 I’m interested in epilepsy research, parallel processing, and graph algorithms.
+- 👀 I’m interested in epilepsy and sleep research, parallel processing, and graph algorithms.
 - 🌱 I’m currently learning R, Go, Git, OpenMPI/MP/Acc, Akka, parallel processing (in general) and Italian.
 - 💞️ I’m looking to collaborate on the design of parallel processing and graph algorithms.
 - 📫 You can reach me at markrbower@yahoo.com
